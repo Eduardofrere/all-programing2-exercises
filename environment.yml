@@ -19,6 +19,7 @@ dependencies:
   - wheel=0.45.1=pyhd8ed1ab_1
   - pip:
       - anyio==4.9.0
+      - sphinx
       - appnope==0.1.4
       - argon2-cffi==23.1.0
       - argon2-cffi-bindings==21.2.0
